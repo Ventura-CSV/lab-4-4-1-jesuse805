@@ -5,6 +5,7 @@ def main():
     """
     number = int(input('Enter a value: '))
     while number >= 0 or number <= 100:
+        
     
     
     
