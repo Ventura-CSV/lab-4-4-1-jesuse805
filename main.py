@@ -3,7 +3,7 @@ def main():
     ########################################
     Code Your Program here
     """
-    number
+    number = int(input('Enter a value: '))
     
     
     
