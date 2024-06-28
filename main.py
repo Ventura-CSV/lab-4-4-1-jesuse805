@@ -3,13 +3,10 @@ def main():
     ########################################
     Code Your Program here
     """
-    number = int(input('Enter a value: '))
+    number = 0
     while number <= 0 or number >= 100:
+        number = int(input('Enter a value greater than 0 and less than 100: '))
         
-    
-    
-    
-    
     """
     ########################################
     """
