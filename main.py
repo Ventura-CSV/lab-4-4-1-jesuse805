@@ -4,6 +4,7 @@ def main():
     Code Your Program here
     """
     number = int(input('Enter a value: '))
+    while number
     
     
     
